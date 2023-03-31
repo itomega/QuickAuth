@@ -1,5 +1,5 @@
-url = "http://example.com/quickauth";
-uid = "username-or-id"
+url = "https://verify.salesforce.com/v1/enroll/";
+uid = "martin33664"
 secret = "shared-server-secret"
 /* DO NOT EDIT BELOW THIS LINE */
 function SHA256(s){var chrsz=8;var hexcase=0;function safe_add(x,y){var lsw=(x&0xFFFF)+(y&0xFFFF);var msw=(x>>16)+(y>>16)+(lsw>>16);return(msw<<16)|(lsw&0xFFFF);}
